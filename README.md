@@ -19,7 +19,6 @@ Tools & Technologies
 Current Goals
 
 - Strengthen my programming fundamentals
-- Practice DSA consistently
 - Build useful projects and grow as a software engineer
 
 Connect With Me
