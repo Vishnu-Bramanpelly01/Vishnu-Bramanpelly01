@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Vishnu 👋
 
-<!--
-**Vishnu-Bramanpelly01/Vishnu-Bramanpelly01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at RGUKT Basar
+💡 Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python and C
+- 🤖 Interested in AI, Machine Learning, and Generative AI
+- 🛠️ Building projects and improving my problem-solving skills step by step
+- 🚀 Always curious about technology and learning new things
+
+Tools & Technologies
+
+- Languages: C, Python
+- Interests: AI/ML, DSA, open source, software development
+- Tools: Git & GitHub (Learning)
+
+Current Goals
+
+- Strengthen my programming fundamentals
+- Practice DSA consistently
+- Build useful projects and grow as a software engineer
+
+Connect With Me
+
+
+- Email: "bramanpellyv@gmail.com" (mailto:bramanpellyv@gmail.com)
+
+---
+
+“Learning every day, building step by step.” ✨
